@@ -18,4 +18,9 @@ public class BowlingGameTest {
     public void lisaTest3rd() {
             //3nd test
     }
+
+    @Test
+    public void lisaTestThree() {
+            //3nd test merge
+    }
 }
