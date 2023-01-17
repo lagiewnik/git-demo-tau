@@ -23,5 +23,18 @@ public class BowlingGameTest {
     public void lisaTest4rd() {
             //4rd test
     }
+@Test
+    public void lisaTest5th() {
+            //5th test BUG FIXED
+    }
 
+    @Test
+    public void lisaTest6th() {
+            //
+    }
+
+    @Test
+    public void lisaTest7th() {
+            //
+    }
 }
