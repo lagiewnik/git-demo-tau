@@ -46,6 +46,12 @@ public class BowlingGameTest {
             //lagiewnik
     }
 
+@Test
+    public void Test10th() {
+            //sender
+    }
+    
+
         @Test
     public void Test9th() {
             //lagiewnik
