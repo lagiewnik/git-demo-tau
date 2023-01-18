@@ -37,4 +37,10 @@ public class BowlingGameTest {
     public void lisaTest7th() {
             //
     }
+
+@Test
+    public void senderTest9th() {
+            //
+    }
+
 }
