@@ -57,14 +57,13 @@ public class BowlingGameTest {
             //lagiewnik
     }
 
-<<<<<<< HEAD
-         @Test
-    public void Test11() {
-            //sender
-=======
     @Test
     public void Test10() {
             //lagiewnik
->>>>>>> 3c91f07 (Add 10 test by lagiewnik)
+    }
+
+         @Test
+    public void Test11() {
+            //sender
     }
 }
