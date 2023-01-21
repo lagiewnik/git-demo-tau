@@ -56,4 +56,9 @@ public class BowlingGameTest {
     public void Test9th() {
             //lagiewnik
     }
+
+    @Test
+    public void Test10() {
+            //lagiewnik
+    }
 }
